@@ -1,4 +1,4 @@
-# 👋 Hola, soy Gustavo Adolfo Cabrera Vanegas  
+# 👋 Hola, soy Gustavo Cabrera  
 
 [Read this in English](./README.md)  
 
