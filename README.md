@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, My name is Gustavo Cabrera 
 
-<!--
-**one-centavo/one-centavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Leer en español](./README.es.md)   
 
-Here are some ideas to get you started:
+### 💻 About Me  
+- 🎓 Software Analysis and Development student.  
+- 🌱 Currently learning **HTML, CSS, JavaScript, MySQL, and PHP**.  
+- 🛠 Exploring **WordPress** for CMS projects.  
+- 📚 Interested in applying **SOLID principles** and clean coding practices.  
+- 🚀 Passionate about **web development** and building real-world solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏋️ Personal  
+- I also enjoy working out and follow a **Push/Pull/Legs routine** with progressive overload.  
+- Combining fitness and software development helps me stay disciplined and consistent.  
+
+### 🔗 Contact  
+-📫 Email: [gustavoadolfocabrera15@gmail.com](mailto:gustavoadolfocabrera15@gmail.com)  
+- 🌐 [https://github.com/one-centavo]  
