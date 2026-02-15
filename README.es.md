@@ -16,3 +16,4 @@
 ### 🔗 Contacto  
 - 📫 Email: [gustavoadolfocabrera15@gmail.com](mailto:gustavoadolfocabrera15@gmail.com)  
 - 🌐 GitHub: [https://github.com/one-centavo](https://github.com/one-centavo)
+- 💼 Linkedin: [https://www.linkedin.com/in/one-centavo/](https://www.linkedin.com/in/one-centavo/)
